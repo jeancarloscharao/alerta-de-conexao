@@ -27,5 +27,5 @@ sites.txt
 cron-test.log
 error.log
 
-Logs/cron.log
-Logs/run-monitor.log
+src/Logs/cron.log
+src/Logs/run-monitor.log
