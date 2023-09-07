@@ -1,0 +1,22 @@
+# Usar a imagem oficial do PHP CLI
+FROM php:8.0-cli
+
+# Instalar o cron
+RUN apt-get update && apt-get install -y cron
+
+# Definir o diretório de trabalho
+WORKDIR /var/www/html
+
+# Copiar o código PHP e outros arquivos necessários para o container
+COPY src/* ./
+
+# Se você tiver um arquivo composer.json, copie-o também
+COPY composer.json ./
+
+# Adicione o cron job
+COPY crontab /etc/cron.d/cron-job
+RUN chmod 0644 /etc/cron.d/cron-job
+RUN crontab /etc/cron.d/cron-job
+
+# Execute o cron em primeiro plano
+CMD ["cron", "-f"]

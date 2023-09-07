@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  php-app:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8080:80"
+    volumes:
+      - ./:/var/www/html
+
+  cron:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile-cron
+    volumes:
+      - ./:/var/www/html

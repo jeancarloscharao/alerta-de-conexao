@@ -1,0 +1,2 @@
+* * * * * /var/www/html/run-monitor.sh >> /var/log/cron.log 2>&1
+* * * * * /bin/echo "Cron is working" >> /var/www/html/cron-test.log

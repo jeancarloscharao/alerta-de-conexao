@@ -1,0 +1,18 @@
+{
+    "name": "user/site-monitor",
+    "description": "A simple site monitor script",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "phpmailer/phpmailer": "^6.8",
+        "vlucas/phpdotenv": "^5.3"
+    },
+    "authors": [
+        {
+            "name": "Jean Carlos Charão Sabino",
+            "email": "jeancarloscharao@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "license": "MIT"
+}
