@@ -1,7 +1,7 @@
 
-# SiteMonitor 🚀
+# AlertadeConexão 🚀
 
-O SiteMonitor é uma ferramenta que monitora a disponibilidade de sites e notifica o usuário quando eles estão fora do ar. Desenvolvido em PHP, o projeto utiliza Docker e Docker Compose para facilitar a configuração e execução.
+O Alerta de Conexão é uma ferramenta que monitora a disponibilidade de sites e notifica o usuário quando eles estão fora do ar. Desenvolvido em PHP, o projeto utiliza Docker e Docker Compose para facilitar a configuração e execução.
 
 ## 🛠️ Pré-requisitos
 
@@ -14,8 +14,8 @@ Antes de começar, certifique-se de ter instalado:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu_usuario/site-monitor-php.git
-   cd site-monitor-php
+   git clone https://github.com/jeancarloscharao/alerta-de-conexao.git
+   cd alerta-de-conexao
    ```
 
 2. **Configure suas variáveis de ambiente**:
@@ -34,7 +34,7 @@ Antes de começar, certifique-se de ter instalado:
 5. **Instale as dependências PHP**:
    Entre no container da aplicação e instale as dependências usando o Composer:
    ```bash
-   docker-compose exec app bash
+   docker exec -it alerta-de-conexao_php-app_1 bash
    composer install
    exit
    ```
@@ -50,7 +50,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [clique aqui](https://open
 
 ## 🤝 Contribuições
 
-Contribuições, problemas e solicitações de recursos são bem-vindos! Confira a página de [issues](https://github.com/seu_usuario/site-monitor-php/issues) para mais detalhes.
+Contribuições, problemas e solicitações de recursos são bem-vindos! Confira a página de [issues](https://github.com/jeancarloscharao/alerta-de-conexao.git/issues) para mais detalhes.
 
 ---
 

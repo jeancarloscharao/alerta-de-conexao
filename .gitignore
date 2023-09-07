@@ -26,3 +26,6 @@ Homestead.json
 sites.txt
 cron-test.log
 error.log
+
+src/Logs/cron.log
+src/Logs/run-monitor.log
