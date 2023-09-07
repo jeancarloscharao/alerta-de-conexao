@@ -3,6 +3,12 @@
 
 O Alerta de Conexão é uma ferramenta que monitora a disponibilidade de sites e notifica o usuário quando eles estão fora do ar. Desenvolvido em PHP, o projeto utiliza Docker e Docker Compose para facilitar a configuração e execução.
 
+## 📊 Fluxograma do Sistema
+
+![Diagrama de Fluxo do Sistema de Monitoramento de Sites](https://showme.redstarplugin.com/d/d:bHVNoZKq)
+
+Este diagrama de fluxo ilustra o processo de monitoramento dos sites. O sistema começa obtendo a lista de sites a serem monitorados, envia solicitações HTTP para cada site, verifica a resposta e determina se o site está funcionando ou fora do ar.
+
 ## 🛠️ Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado:
