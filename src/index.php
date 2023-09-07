@@ -42,10 +42,14 @@ class SiteMonitor
         return new Pool($this->client, $requests(), [
             'concurrency' => 5,
             'fulfilled' => function ($response, $index) {
-                if ($response->getStatusCode() !== 200) {
+
+                $invalidStatusCodes = [500, 502, 503, 504, 404, 408, 451, 429];
+
+                if (in_array($response->getStatusCode(), $invalidStatusCodes)) {
                     $this->downSites[] = $this->sites[$index];
                     $this->logError($this->sites[$index]);
                 }
+                
             },
             'rejected' => function ($reason, $index) {
                 $this->downSites[] = $this->sites[$index];
