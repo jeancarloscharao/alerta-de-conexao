@@ -24,3 +24,5 @@ Homestead.json
 .phpunit.result.cache
 
 sites.txt
+cron-test.log
+error.log
