@@ -8,11 +8,11 @@ services:
     ports:
       - "8080:80"
     volumes:
-      - ./:/var/www/html
+      - .:/var/www/html
 
   cron:
     build:
       context: .
       dockerfile: docker/Dockerfile-cron
     volumes:
-      - ./:/var/www/html
+      - .:/var/www/html
