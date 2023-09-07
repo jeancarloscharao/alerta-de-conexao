@@ -17,7 +17,7 @@ class PHPMailerGateway implements MailGateway {
     }
 
     public function send(string $subject, string $body) {
-        try {
+        try { 
             // Configurações do servidor
             $this->mailer->SMTPDebug = 2;                                 
             $this->mailer->isSMTP();                                      
