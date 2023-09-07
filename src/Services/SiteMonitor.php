@@ -21,7 +21,6 @@ class SiteMonitor {
                     $this->downSites[] = $site;
                 }
             } catch (\Exception $e) {
-                // Se houver uma exceção ao tentar acessar o site, consideramos o site como inativo.
                 $this->downSites[] = $site;
             }
         }
@@ -29,7 +28,6 @@ class SiteMonitor {
     }
 
     private function isValidResponse($response): bool {
-        // Verifica se o código de status da resposta é 200 (OK).
         return $response->getStatusCode() === 200;
     }
 }
