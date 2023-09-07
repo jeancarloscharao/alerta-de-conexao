@@ -1,0 +1,1836 @@
+2023-09-07 19:37:08	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:37:08	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:37:08	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:37:08	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:37:08	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:37:08	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:37:08	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:37:08	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:37:08	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:37:08	CLIENT -> SERVER: MAIL FROM:<jeancarloscharao@gmail.com>
+2023-09-07 19:37:08	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:37:08	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:37:09	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:37:09	CLIENT -> SERVER: DATA
+2023-09-07 19:37:09	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:37:09	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:37:08 +0000
+2023-09-07 19:37:09	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:37:09	CLIENT -> SERVER: From: Monitor de Sites <jeancarloscharao@gmail.com>
+2023-09-07 19:37:09	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:37:09	CLIENT -> SERVER: Message-ID: <vrwPAAVqBg0lyicdYd23smAbRUZsOOLqdHhWjIwMM@6b7754b45eeb>
+2023-09-07 19:37:09	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:37:09	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:37:09	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:37:09	CLIENT -> SERVER:  boundary="b1=_vrwPAAVqBg0lyicdYd23smAbRUZsOOLqdHhWjIwMM"
+2023-09-07 19:37:09	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:37:09	CLIENT -> SERVER:
+2023-09-07 19:37:09	CLIENT -> SERVER: --b1=_vrwPAAVqBg0lyicdYd23smAbRUZsOOLqdHhWjIwMM
+2023-09-07 19:37:09	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:37:09	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:37:09	CLIENT -> SERVER:
+2023-09-07 19:37:09	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:37:09	CLIENT -> SERVER:
+2023-09-07 19:37:09	CLIENT -> SERVER: --b1=_vrwPAAVqBg0lyicdYd23smAbRUZsOOLqdHhWjIwMM
+2023-09-07 19:37:09	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:37:09	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:37:09	CLIENT -> SERVER:
+2023-09-07 19:37:09	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:37:09	CLIENT -> SERVER:
+2023-09-07 19:37:09	CLIENT -> SERVER:
+2023-09-07 19:37:09	CLIENT -> SERVER: --b1=_vrwPAAVqBg0lyicdYd23smAbRUZsOOLqdHhWjIwMM--
+2023-09-07 19:37:09	CLIENT -> SERVER:
+2023-09-07 19:37:09	CLIENT -> SERVER: .
+2023-09-07 19:37:09	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 09C99417E387
+2023-09-07 19:37:09	CLIENT -> SERVER: QUIT
+2023-09-07 19:37:09	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:38:06	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:38:06	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:38:06	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:38:06	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:38:06	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:38:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:38:06	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:38:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:38:06	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:38:06	CLIENT -> SERVER: MAIL FROM:<jeancarloscharao@gmail.com>
+2023-09-07 19:38:06	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:38:06	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:38:06	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:38:06	CLIENT -> SERVER: DATA
+2023-09-07 19:38:06	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:38:06	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:38:06 +0000
+2023-09-07 19:38:06	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:38:06	CLIENT -> SERVER: From: Monitor de Sites <jeancarloscharao@gmail.com>
+2023-09-07 19:38:06	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:38:06	CLIENT -> SERVER: Message-ID: <2LLaEmc0lktHNh2lvdxWUG0wuJ0yetMgh1twO0MmxYc@6b7754b45eeb>
+2023-09-07 19:38:06	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:38:06	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:38:06	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:38:06	CLIENT -> SERVER:  boundary="b1=_2LLaEmc0lktHNh2lvdxWUG0wuJ0yetMgh1twO0MmxYc"
+2023-09-07 19:38:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:38:06	CLIENT -> SERVER:
+2023-09-07 19:38:06	CLIENT -> SERVER: --b1=_2LLaEmc0lktHNh2lvdxWUG0wuJ0yetMgh1twO0MmxYc
+2023-09-07 19:38:06	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:38:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:38:06	CLIENT -> SERVER:
+2023-09-07 19:38:06	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:38:06	CLIENT -> SERVER:
+2023-09-07 19:38:06	CLIENT -> SERVER: --b1=_2LLaEmc0lktHNh2lvdxWUG0wuJ0yetMgh1twO0MmxYc
+2023-09-07 19:38:06	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:38:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:38:06	CLIENT -> SERVER:
+2023-09-07 19:38:06	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:38:06	CLIENT -> SERVER:
+2023-09-07 19:38:06	CLIENT -> SERVER:
+2023-09-07 19:38:06	CLIENT -> SERVER: --b1=_2LLaEmc0lktHNh2lvdxWUG0wuJ0yetMgh1twO0MmxYc--
+2023-09-07 19:38:06	CLIENT -> SERVER:
+2023-09-07 19:38:06	CLIENT -> SERVER: .
+2023-09-07 19:38:06	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 966EF417E397
+2023-09-07 19:38:06	CLIENT -> SERVER: QUIT
+2023-09-07 19:38:06	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:39:07	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:39:07	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:39:07	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:39:07	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:39:07	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:39:07	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:39:07	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:39:07	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:39:07	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:39:07	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:39:07	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:39:07	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:39:07	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:39:07	CLIENT -> SERVER: DATA
+2023-09-07 19:39:07	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:39:07	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:39:06 +0000
+2023-09-07 19:39:07	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:39:07	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:39:07	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:39:07	CLIENT -> SERVER: Message-ID: <rbqAZMY7JZToqkFwzFuqjpwo5ueL1bTVgksa6RYoe4@6b7754b45eeb>
+2023-09-07 19:39:07	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:39:07	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:39:07	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:39:07	CLIENT -> SERVER:  boundary="b1=_rbqAZMY7JZToqkFwzFuqjpwo5ueL1bTVgksa6RYoe4"
+2023-09-07 19:39:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:39:07	CLIENT -> SERVER:
+2023-09-07 19:39:07	CLIENT -> SERVER: --b1=_rbqAZMY7JZToqkFwzFuqjpwo5ueL1bTVgksa6RYoe4
+2023-09-07 19:39:07	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:39:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:39:07	CLIENT -> SERVER:
+2023-09-07 19:39:07	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:39:07	CLIENT -> SERVER:
+2023-09-07 19:39:07	CLIENT -> SERVER: --b1=_rbqAZMY7JZToqkFwzFuqjpwo5ueL1bTVgksa6RYoe4
+2023-09-07 19:39:07	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:39:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:39:07	CLIENT -> SERVER:
+2023-09-07 19:39:07	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:39:07	CLIENT -> SERVER:
+2023-09-07 19:39:07	CLIENT -> SERVER:
+2023-09-07 19:39:07	CLIENT -> SERVER: --b1=_rbqAZMY7JZToqkFwzFuqjpwo5ueL1bTVgksa6RYoe4--
+2023-09-07 19:39:07	CLIENT -> SERVER:
+2023-09-07 19:39:07	CLIENT -> SERVER: .
+2023-09-07 19:39:07	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 326B8417E397
+2023-09-07 19:39:07	CLIENT -> SERVER: QUIT
+2023-09-07 19:39:07	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:40:06	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:40:06	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:40:06	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:40:06	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:40:06	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:40:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:40:06	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:40:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:40:06	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:40:06	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:40:06	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:40:06	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:40:06	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:40:06	CLIENT -> SERVER: DATA
+2023-09-07 19:40:06	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:40:06	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:40:06 +0000
+2023-09-07 19:40:06	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:40:06	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:40:06	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:40:06	CLIENT -> SERVER: Message-ID: <qa0FZrY4sN6m1l74lAhG5Mc7ObChsILtYfsh4SUMG8@6b7754b45eeb>
+2023-09-07 19:40:06	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:40:06	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:40:06	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:40:06	CLIENT -> SERVER:  boundary="b1=_qa0FZrY4sN6m1l74lAhG5Mc7ObChsILtYfsh4SUMG8"
+2023-09-07 19:40:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:40:06	CLIENT -> SERVER:
+2023-09-07 19:40:06	CLIENT -> SERVER: --b1=_qa0FZrY4sN6m1l74lAhG5Mc7ObChsILtYfsh4SUMG8
+2023-09-07 19:40:06	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:40:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:40:06	CLIENT -> SERVER:
+2023-09-07 19:40:06	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:40:06	CLIENT -> SERVER:
+2023-09-07 19:40:06	CLIENT -> SERVER: --b1=_qa0FZrY4sN6m1l74lAhG5Mc7ObChsILtYfsh4SUMG8
+2023-09-07 19:40:06	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:40:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:40:06	CLIENT -> SERVER:
+2023-09-07 19:40:06	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:40:06	CLIENT -> SERVER:
+2023-09-07 19:40:06	CLIENT -> SERVER:
+2023-09-07 19:40:06	CLIENT -> SERVER: --b1=_qa0FZrY4sN6m1l74lAhG5Mc7ObChsILtYfsh4SUMG8--
+2023-09-07 19:40:06	CLIENT -> SERVER:
+2023-09-07 19:40:06	CLIENT -> SERVER: .
+2023-09-07 19:40:06	SERVER -> CLIENT: 250 2.0.0 Ok: queued as C857B417E387
+2023-09-07 19:40:06	CLIENT -> SERVER: QUIT
+2023-09-07 19:40:06	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:41:07	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:41:07	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:41:07	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:41:07	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:41:07	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:41:07	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:41:07	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:41:07	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:41:08	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:41:08	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:41:08	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:41:08	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:41:08	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:41:08	CLIENT -> SERVER: DATA
+2023-09-07 19:41:08	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:41:08	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:41:07 +0000
+2023-09-07 19:41:08	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:41:08	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:41:08	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:41:08	CLIENT -> SERVER: Message-ID: <2tYVDcwO327MgF8p1g0w7Qd3hxAlh1eCbDCWaEkbu8@6b7754b45eeb>
+2023-09-07 19:41:08	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:41:08	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:41:08	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:41:08	CLIENT -> SERVER:  boundary="b1=_2tYVDcwO327MgF8p1g0w7Qd3hxAlh1eCbDCWaEkbu8"
+2023-09-07 19:41:08	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:41:08	CLIENT -> SERVER:
+2023-09-07 19:41:08	CLIENT -> SERVER: --b1=_2tYVDcwO327MgF8p1g0w7Qd3hxAlh1eCbDCWaEkbu8
+2023-09-07 19:41:08	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:41:08	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:41:08	CLIENT -> SERVER:
+2023-09-07 19:41:08	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:41:08	CLIENT -> SERVER:
+2023-09-07 19:41:08	CLIENT -> SERVER: --b1=_2tYVDcwO327MgF8p1g0w7Qd3hxAlh1eCbDCWaEkbu8
+2023-09-07 19:41:08	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:41:08	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:41:08	CLIENT -> SERVER:
+2023-09-07 19:41:08	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:41:08	CLIENT -> SERVER:
+2023-09-07 19:41:08	CLIENT -> SERVER:
+2023-09-07 19:41:08	CLIENT -> SERVER: --b1=_2tYVDcwO327MgF8p1g0w7Qd3hxAlh1eCbDCWaEkbu8--
+2023-09-07 19:41:08	CLIENT -> SERVER:
+2023-09-07 19:41:08	CLIENT -> SERVER: .
+2023-09-07 19:41:08	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 22B67417E387
+2023-09-07 19:41:08	CLIENT -> SERVER: QUIT
+2023-09-07 19:41:08	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:42:06	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:42:06	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:42:06	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:42:06	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:42:06	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:42:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:42:06	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:42:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:42:06	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:42:06	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:42:06	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:42:06	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:42:06	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:42:06	CLIENT -> SERVER: DATA
+2023-09-07 19:42:06	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:42:06	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:42:06 +0000
+2023-09-07 19:42:06	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:42:06	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:42:06	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:42:06	CLIENT -> SERVER: Message-ID: <VDDr5LdFPKMVGlGtxb4yASAkUecdhqgRVf84DDQ@6b7754b45eeb>
+2023-09-07 19:42:06	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:42:06	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:42:06	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:42:06	CLIENT -> SERVER:  boundary="b1=_VDDr5LdFPKMVGlGtxb4yASAkUecdhqgRVf84DDQ"
+2023-09-07 19:42:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:42:06	CLIENT -> SERVER:
+2023-09-07 19:42:06	CLIENT -> SERVER: --b1=_VDDr5LdFPKMVGlGtxb4yASAkUecdhqgRVf84DDQ
+2023-09-07 19:42:06	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:42:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:42:06	CLIENT -> SERVER:
+2023-09-07 19:42:06	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:42:06	CLIENT -> SERVER:
+2023-09-07 19:42:06	CLIENT -> SERVER: --b1=_VDDr5LdFPKMVGlGtxb4yASAkUecdhqgRVf84DDQ
+2023-09-07 19:42:06	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:42:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:42:06	CLIENT -> SERVER:
+2023-09-07 19:42:06	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:42:06	CLIENT -> SERVER:
+2023-09-07 19:42:06	CLIENT -> SERVER:
+2023-09-07 19:42:06	CLIENT -> SERVER: --b1=_VDDr5LdFPKMVGlGtxb4yASAkUecdhqgRVf84DDQ--
+2023-09-07 19:42:06	CLIENT -> SERVER:
+2023-09-07 19:42:06	CLIENT -> SERVER: .
+2023-09-07 19:42:06	SERVER -> CLIENT: 250 2.0.0 Ok: queued as E2312417E397
+2023-09-07 19:42:06	CLIENT -> SERVER: QUIT
+2023-09-07 19:42:07	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:43:06	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:43:06	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:43:06	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:43:06	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:43:06	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:43:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:43:06	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:43:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:43:06	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:43:06	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:43:06	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:43:06	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:43:06	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:43:06	CLIENT -> SERVER: DATA
+2023-09-07 19:43:06	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:43:06	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:43:06 +0000
+2023-09-07 19:43:06	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:43:06	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:43:06	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:43:06	CLIENT -> SERVER: Message-ID: <zdGS1MB2sj9ER6QEXy4Cu5vjuiF2VCxeC00JXHJPo@6b7754b45eeb>
+2023-09-07 19:43:06	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:43:06	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:43:06	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:43:06	CLIENT -> SERVER:  boundary="b1=_zdGS1MB2sj9ER6QEXy4Cu5vjuiF2VCxeC00JXHJPo"
+2023-09-07 19:43:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:43:06	CLIENT -> SERVER:
+2023-09-07 19:43:06	CLIENT -> SERVER: --b1=_zdGS1MB2sj9ER6QEXy4Cu5vjuiF2VCxeC00JXHJPo
+2023-09-07 19:43:06	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:43:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:43:06	CLIENT -> SERVER:
+2023-09-07 19:43:06	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:43:06	CLIENT -> SERVER:
+2023-09-07 19:43:06	CLIENT -> SERVER: --b1=_zdGS1MB2sj9ER6QEXy4Cu5vjuiF2VCxeC00JXHJPo
+2023-09-07 19:43:06	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:43:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:43:06	CLIENT -> SERVER:
+2023-09-07 19:43:06	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:43:06	CLIENT -> SERVER:
+2023-09-07 19:43:06	CLIENT -> SERVER:
+2023-09-07 19:43:06	CLIENT -> SERVER: --b1=_zdGS1MB2sj9ER6QEXy4Cu5vjuiF2VCxeC00JXHJPo--
+2023-09-07 19:43:06	CLIENT -> SERVER:
+2023-09-07 19:43:06	CLIENT -> SERVER: .
+2023-09-07 19:43:06	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 62EE0417E387
+2023-09-07 19:43:06	CLIENT -> SERVER: QUIT
+2023-09-07 19:43:06	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:44:06	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:44:06	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:44:06	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:44:06	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:44:06	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:44:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:44:06	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:44:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:44:07	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:44:07	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:44:07	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:44:07	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:44:07	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:44:07	CLIENT -> SERVER: DATA
+2023-09-07 19:44:07	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:44:07	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:44:06 +0000
+2023-09-07 19:44:07	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:44:07	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:44:07	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:44:07	CLIENT -> SERVER: Message-ID: <2dLjmcELp9wHVJ3PLALxlaWly5hBnnvbG1dZcTNAI@6b7754b45eeb>
+2023-09-07 19:44:07	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:44:07	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:44:07	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:44:07	CLIENT -> SERVER:  boundary="b1=_2dLjmcELp9wHVJ3PLALxlaWly5hBnnvbG1dZcTNAI"
+2023-09-07 19:44:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:44:07	CLIENT -> SERVER:
+2023-09-07 19:44:07	CLIENT -> SERVER: --b1=_2dLjmcELp9wHVJ3PLALxlaWly5hBnnvbG1dZcTNAI
+2023-09-07 19:44:07	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:44:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:44:07	CLIENT -> SERVER:
+2023-09-07 19:44:07	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:44:07	CLIENT -> SERVER:
+2023-09-07 19:44:07	CLIENT -> SERVER: --b1=_2dLjmcELp9wHVJ3PLALxlaWly5hBnnvbG1dZcTNAI
+2023-09-07 19:44:07	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:44:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:44:07	CLIENT -> SERVER:
+2023-09-07 19:44:07	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:44:07	CLIENT -> SERVER:
+2023-09-07 19:44:07	CLIENT -> SERVER:
+2023-09-07 19:44:07	CLIENT -> SERVER: --b1=_2dLjmcELp9wHVJ3PLALxlaWly5hBnnvbG1dZcTNAI--
+2023-09-07 19:44:07	CLIENT -> SERVER:
+2023-09-07 19:44:07	CLIENT -> SERVER: .
+2023-09-07 19:44:07	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 27952417E387
+2023-09-07 19:44:07	CLIENT -> SERVER: QUIT
+2023-09-07 19:44:07	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:45:06	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:45:06	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:45:06	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:45:06	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:45:06	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:45:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:45:06	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:45:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:45:06	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:45:06	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:45:06	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:45:06	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:45:06	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:45:06	CLIENT -> SERVER: DATA
+2023-09-07 19:45:06	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:45:06	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:45:06 +0000
+2023-09-07 19:45:06	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:45:06	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:45:06	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:45:06	CLIENT -> SERVER: Message-ID: <KPzHh1mFF9bZhrh5brFnGeEyEocSpCWt6NchRj3hogQ@6b7754b45eeb>
+2023-09-07 19:45:06	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:45:06	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:45:06	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:45:06	CLIENT -> SERVER:  boundary="b1=_KPzHh1mFF9bZhrh5brFnGeEyEocSpCWt6NchRj3hogQ"
+2023-09-07 19:45:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:45:06	CLIENT -> SERVER:
+2023-09-07 19:45:06	CLIENT -> SERVER: --b1=_KPzHh1mFF9bZhrh5brFnGeEyEocSpCWt6NchRj3hogQ
+2023-09-07 19:45:06	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:45:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:45:06	CLIENT -> SERVER:
+2023-09-07 19:45:06	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:45:06	CLIENT -> SERVER:
+2023-09-07 19:45:06	CLIENT -> SERVER: --b1=_KPzHh1mFF9bZhrh5brFnGeEyEocSpCWt6NchRj3hogQ
+2023-09-07 19:45:06	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:45:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:45:06	CLIENT -> SERVER:
+2023-09-07 19:45:06	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:45:06	CLIENT -> SERVER:
+2023-09-07 19:45:06	CLIENT -> SERVER:
+2023-09-07 19:45:06	CLIENT -> SERVER: --b1=_KPzHh1mFF9bZhrh5brFnGeEyEocSpCWt6NchRj3hogQ--
+2023-09-07 19:45:06	CLIENT -> SERVER:
+2023-09-07 19:45:06	CLIENT -> SERVER: .
+2023-09-07 19:45:06	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 9EE5F417E387
+2023-09-07 19:45:06	CLIENT -> SERVER: QUIT
+2023-09-07 19:45:06	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:46:07	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:46:07	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:46:07	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:46:07	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:46:07	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:46:07	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:46:07	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:46:07	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:46:07	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:46:07	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:46:07	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:46:07	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:46:07	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:46:07	CLIENT -> SERVER: DATA
+2023-09-07 19:46:07	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:46:07	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:46:07 +0000
+2023-09-07 19:46:07	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:46:07	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:46:07	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:46:07	CLIENT -> SERVER: Message-ID: <uX9pzEzOyHikvasva9VCYuolhEVeqVYa5IwmNpcI@6b7754b45eeb>
+2023-09-07 19:46:07	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:46:07	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:46:07	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:46:07	CLIENT -> SERVER:  boundary="b1=_uX9pzEzOyHikvasva9VCYuolhEVeqVYa5IwmNpcI"
+2023-09-07 19:46:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:46:07	CLIENT -> SERVER:
+2023-09-07 19:46:07	CLIENT -> SERVER: --b1=_uX9pzEzOyHikvasva9VCYuolhEVeqVYa5IwmNpcI
+2023-09-07 19:46:07	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:46:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:46:07	CLIENT -> SERVER:
+2023-09-07 19:46:07	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:46:07	CLIENT -> SERVER:
+2023-09-07 19:46:07	CLIENT -> SERVER: --b1=_uX9pzEzOyHikvasva9VCYuolhEVeqVYa5IwmNpcI
+2023-09-07 19:46:07	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:46:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:46:07	CLIENT -> SERVER:
+2023-09-07 19:46:07	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:46:07	CLIENT -> SERVER:
+2023-09-07 19:46:07	CLIENT -> SERVER:
+2023-09-07 19:46:07	CLIENT -> SERVER: --b1=_uX9pzEzOyHikvasva9VCYuolhEVeqVYa5IwmNpcI--
+2023-09-07 19:46:07	CLIENT -> SERVER:
+2023-09-07 19:46:07	CLIENT -> SERVER: .
+2023-09-07 19:46:08	SERVER -> CLIENT: 250 2.0.0 Ok: queued as E5530417E397
+2023-09-07 19:46:08	CLIENT -> SERVER: QUIT
+2023-09-07 19:46:08	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:47:06	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:47:06	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:47:06	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:47:06	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:47:06	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:47:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:47:06	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:47:06	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:47:06	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:47:06	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:47:06	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:47:06	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:47:06	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:47:06	CLIENT -> SERVER: DATA
+2023-09-07 19:47:06	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:47:06	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:47:06 +0000
+2023-09-07 19:47:06	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:47:06	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:47:06	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:47:06	CLIENT -> SERVER: Message-ID: <k7GhjS4KHTZrXvhpncvyJHwRZ5KRanzfJ53LkmDgouI@6b7754b45eeb>
+2023-09-07 19:47:06	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:47:06	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:47:06	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:47:06	CLIENT -> SERVER:  boundary="b1=_k7GhjS4KHTZrXvhpncvyJHwRZ5KRanzfJ53LkmDgouI"
+2023-09-07 19:47:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:47:06	CLIENT -> SERVER:
+2023-09-07 19:47:06	CLIENT -> SERVER: --b1=_k7GhjS4KHTZrXvhpncvyJHwRZ5KRanzfJ53LkmDgouI
+2023-09-07 19:47:06	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:47:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:47:06	CLIENT -> SERVER:
+2023-09-07 19:47:06	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:47:06	CLIENT -> SERVER:
+2023-09-07 19:47:06	CLIENT -> SERVER: --b1=_k7GhjS4KHTZrXvhpncvyJHwRZ5KRanzfJ53LkmDgouI
+2023-09-07 19:47:06	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:47:06	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:47:06	CLIENT -> SERVER:
+2023-09-07 19:47:06	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:47:06	CLIENT -> SERVER:
+2023-09-07 19:47:06	CLIENT -> SERVER:
+2023-09-07 19:47:06	CLIENT -> SERVER: --b1=_k7GhjS4KHTZrXvhpncvyJHwRZ5KRanzfJ53LkmDgouI--
+2023-09-07 19:47:06	CLIENT -> SERVER:
+2023-09-07 19:47:06	CLIENT -> SERVER: .
+2023-09-07 19:47:06	SERVER -> CLIENT: 250 2.0.0 Ok: queued as A4D9F417E387
+2023-09-07 19:47:06	CLIENT -> SERVER: QUIT
+2023-09-07 19:47:06	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:48:07	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:48:07	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:48:07	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:48:07	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:48:07	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:48:07	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:48:07	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:48:07	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:48:07	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:48:07	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:48:07	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:48:07	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:48:07	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:48:07	CLIENT -> SERVER: DATA
+2023-09-07 19:48:07	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:48:07	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:48:06 +0000
+2023-09-07 19:48:07	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:48:07	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:48:07	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:48:07	CLIENT -> SERVER: Message-ID: <B9uQgfvR3CE1O4sa6dAlpX4l9YqFE1myEPJkLSG4Xbo@6b7754b45eeb>
+2023-09-07 19:48:07	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:48:07	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:48:07	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:48:07	CLIENT -> SERVER:  boundary="b1=_B9uQgfvR3CE1O4sa6dAlpX4l9YqFE1myEPJkLSG4Xbo"
+2023-09-07 19:48:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:48:07	CLIENT -> SERVER:
+2023-09-07 19:48:07	CLIENT -> SERVER: --b1=_B9uQgfvR3CE1O4sa6dAlpX4l9YqFE1myEPJkLSG4Xbo
+2023-09-07 19:48:07	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:48:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:48:07	CLIENT -> SERVER:
+2023-09-07 19:48:07	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:48:07	CLIENT -> SERVER:
+2023-09-07 19:48:07	CLIENT -> SERVER: --b1=_B9uQgfvR3CE1O4sa6dAlpX4l9YqFE1myEPJkLSG4Xbo
+2023-09-07 19:48:07	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:48:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:48:07	CLIENT -> SERVER:
+2023-09-07 19:48:07	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:48:07	CLIENT -> SERVER:
+2023-09-07 19:48:07	CLIENT -> SERVER:
+2023-09-07 19:48:07	CLIENT -> SERVER: --b1=_B9uQgfvR3CE1O4sa6dAlpX4l9YqFE1myEPJkLSG4Xbo--
+2023-09-07 19:48:07	CLIENT -> SERVER:
+2023-09-07 19:48:07	CLIENT -> SERVER: .
+2023-09-07 19:48:07	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 5FEC9417E387
+2023-09-07 19:48:07	CLIENT -> SERVER: QUIT
+2023-09-07 19:48:07	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:49:07	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:49:07	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:49:07	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:49:07	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:49:07	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:49:07	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:49:07	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:49:07	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:49:07	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:49:07	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:49:07	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:49:07	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:49:07	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:49:07	CLIENT -> SERVER: DATA
+2023-09-07 19:49:07	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:49:07	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:49:06 +0000
+2023-09-07 19:49:07	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:49:07	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:49:07	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:49:07	CLIENT -> SERVER: Message-ID: <PhLQVZjuFAoDbnH8jjixCcDnoELhaRMxdIlAXbmeSqk@6b7754b45eeb>
+2023-09-07 19:49:07	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:49:07	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:49:07	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:49:07	CLIENT -> SERVER:  boundary="b1=_PhLQVZjuFAoDbnH8jjixCcDnoELhaRMxdIlAXbmeSqk"
+2023-09-07 19:49:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:49:07	CLIENT -> SERVER:
+2023-09-07 19:49:07	CLIENT -> SERVER: --b1=_PhLQVZjuFAoDbnH8jjixCcDnoELhaRMxdIlAXbmeSqk
+2023-09-07 19:49:07	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:49:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:49:07	CLIENT -> SERVER:
+2023-09-07 19:49:07	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:49:07	CLIENT -> SERVER:
+2023-09-07 19:49:07	CLIENT -> SERVER: --b1=_PhLQVZjuFAoDbnH8jjixCcDnoELhaRMxdIlAXbmeSqk
+2023-09-07 19:49:07	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:49:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:49:07	CLIENT -> SERVER:
+2023-09-07 19:49:07	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:49:07	CLIENT -> SERVER:
+2023-09-07 19:49:07	CLIENT -> SERVER:
+2023-09-07 19:49:07	CLIENT -> SERVER: --b1=_PhLQVZjuFAoDbnH8jjixCcDnoELhaRMxdIlAXbmeSqk--
+2023-09-07 19:49:07	CLIENT -> SERVER:
+2023-09-07 19:49:07	CLIENT -> SERVER: .
+2023-09-07 19:49:07	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4D0AD417E387
+2023-09-07 19:49:07	CLIENT -> SERVER: QUIT
+2023-09-07 19:49:07	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:50:07	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:50:07	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:50:07	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:50:07	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:50:07	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:50:07	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:50:07	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:50:07	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:50:07	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:50:07	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:50:07	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:50:07	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:50:07	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:50:07	CLIENT -> SERVER: DATA
+2023-09-07 19:50:07	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:50:07	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:50:06 +0000
+2023-09-07 19:50:07	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:50:07	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:50:07	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:50:07	CLIENT -> SERVER: Message-ID: <bKSJo78pQLC0fXFpfBJxg1q3SYC6EBGtDZnBwdqM@6b7754b45eeb>
+2023-09-07 19:50:07	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:50:07	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:50:07	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:50:07	CLIENT -> SERVER:  boundary="b1=_bKSJo78pQLC0fXFpfBJxg1q3SYC6EBGtDZnBwdqM"
+2023-09-07 19:50:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:50:07	CLIENT -> SERVER:
+2023-09-07 19:50:07	CLIENT -> SERVER: --b1=_bKSJo78pQLC0fXFpfBJxg1q3SYC6EBGtDZnBwdqM
+2023-09-07 19:50:07	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:50:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:50:07	CLIENT -> SERVER:
+2023-09-07 19:50:07	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:50:07	CLIENT -> SERVER:
+2023-09-07 19:50:07	CLIENT -> SERVER: --b1=_bKSJo78pQLC0fXFpfBJxg1q3SYC6EBGtDZnBwdqM
+2023-09-07 19:50:07	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:50:07	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:50:07	CLIENT -> SERVER:
+2023-09-07 19:50:07	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.jeancarloscharao.com.br
+2023-09-07 19:50:07	CLIENT -> SERVER:
+2023-09-07 19:50:07	CLIENT -> SERVER:
+2023-09-07 19:50:07	CLIENT -> SERVER: --b1=_bKSJo78pQLC0fXFpfBJxg1q3SYC6EBGtDZnBwdqM--
+2023-09-07 19:50:07	CLIENT -> SERVER:
+2023-09-07 19:50:07	CLIENT -> SERVER: .
+2023-09-07 19:50:07	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4E9CD417E387
+2023-09-07 19:50:07	CLIENT -> SERVER: QUIT
+2023-09-07 19:50:07	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:51:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:51:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:51:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:51:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:51:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:51:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:51:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:51:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:51:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:51:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:51:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:51:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:51:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:51:02	CLIENT -> SERVER: DATA
+2023-09-07 19:51:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:51:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:51:01 +0000
+2023-09-07 19:51:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:51:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:51:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:51:02	CLIENT -> SERVER: Message-ID: <CwFBW5MYxIevHlXaZ53G6RbkjHun7otnizSlz0@6b7754b45eeb>
+2023-09-07 19:51:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:51:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:51:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:51:02	CLIENT -> SERVER:  boundary="b1=_CwFBW5MYxIevHlXaZ53G6RbkjHun7otnizSlz0"
+2023-09-07 19:51:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:51:02	CLIENT -> SERVER:
+2023-09-07 19:51:02	CLIENT -> SERVER: --b1=_CwFBW5MYxIevHlXaZ53G6RbkjHun7otnizSlz0
+2023-09-07 19:51:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:51:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:51:02	CLIENT -> SERVER:
+2023-09-07 19:51:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.facebook.com.br, https://www.googledobr.com.br
+2023-09-07 19:51:02	CLIENT -> SERVER:
+2023-09-07 19:51:02	CLIENT -> SERVER: --b1=_CwFBW5MYxIevHlXaZ53G6RbkjHun7otnizSlz0
+2023-09-07 19:51:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:51:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:51:02	CLIENT -> SERVER:
+2023-09-07 19:51:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.facebook.com.br, https://www.googledobr.com.br
+2023-09-07 19:51:02	CLIENT -> SERVER:
+2023-09-07 19:51:02	CLIENT -> SERVER:
+2023-09-07 19:51:02	CLIENT -> SERVER: --b1=_CwFBW5MYxIevHlXaZ53G6RbkjHun7otnizSlz0--
+2023-09-07 19:51:02	CLIENT -> SERVER:
+2023-09-07 19:51:02	CLIENT -> SERVER: .
+2023-09-07 19:51:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4D6EE417E397
+2023-09-07 19:51:02	CLIENT -> SERVER: QUIT
+2023-09-07 19:51:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:52:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:52:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:52:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:52:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:52:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:52:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:52:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:52:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:52:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:52:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:52:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:52:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:52:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:52:02	CLIENT -> SERVER: DATA
+2023-09-07 19:52:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:52:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:52:02 +0000
+2023-09-07 19:52:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:52:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:52:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:52:02	CLIENT -> SERVER: Message-ID: <0p9PESH3FzYiMgjJG27dYxzPT61J0jFMC2w6LJpSE@6b7754b45eeb>
+2023-09-07 19:52:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:52:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:52:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:52:02	CLIENT -> SERVER:  boundary="b1=_0p9PESH3FzYiMgjJG27dYxzPT61J0jFMC2w6LJpSE"
+2023-09-07 19:52:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:52:02	CLIENT -> SERVER:
+2023-09-07 19:52:02	CLIENT -> SERVER: --b1=_0p9PESH3FzYiMgjJG27dYxzPT61J0jFMC2w6LJpSE
+2023-09-07 19:52:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:52:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:52:02	CLIENT -> SERVER:
+2023-09-07 19:52:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:52:02	CLIENT -> SERVER:
+2023-09-07 19:52:02	CLIENT -> SERVER: --b1=_0p9PESH3FzYiMgjJG27dYxzPT61J0jFMC2w6LJpSE
+2023-09-07 19:52:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:52:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:52:02	CLIENT -> SERVER:
+2023-09-07 19:52:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:52:02	CLIENT -> SERVER:
+2023-09-07 19:52:02	CLIENT -> SERVER:
+2023-09-07 19:52:02	CLIENT -> SERVER: --b1=_0p9PESH3FzYiMgjJG27dYxzPT61J0jFMC2w6LJpSE--
+2023-09-07 19:52:02	CLIENT -> SERVER:
+2023-09-07 19:52:02	CLIENT -> SERVER: .
+2023-09-07 19:52:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 8ADFB417E387
+2023-09-07 19:52:02	CLIENT -> SERVER: QUIT
+2023-09-07 19:52:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:53:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:53:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:53:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:53:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:53:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:53:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:53:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:53:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:53:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:53:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:53:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:53:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:53:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:53:02	CLIENT -> SERVER: DATA
+2023-09-07 19:53:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:53:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:53:02 +0000
+2023-09-07 19:53:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:53:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:53:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:53:02	CLIENT -> SERVER: Message-ID: <OX6uwgMM7jn5SDaIKKp4sIVIR3QHRKkvb6fIqIMw@6b7754b45eeb>
+2023-09-07 19:53:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:53:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:53:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:53:02	CLIENT -> SERVER:  boundary="b1=_OX6uwgMM7jn5SDaIKKp4sIVIR3QHRKkvb6fIqIMw"
+2023-09-07 19:53:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:53:02	CLIENT -> SERVER:
+2023-09-07 19:53:02	CLIENT -> SERVER: --b1=_OX6uwgMM7jn5SDaIKKp4sIVIR3QHRKkvb6fIqIMw
+2023-09-07 19:53:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:53:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:53:02	CLIENT -> SERVER:
+2023-09-07 19:53:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:53:02	CLIENT -> SERVER:
+2023-09-07 19:53:02	CLIENT -> SERVER: --b1=_OX6uwgMM7jn5SDaIKKp4sIVIR3QHRKkvb6fIqIMw
+2023-09-07 19:53:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:53:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:53:02	CLIENT -> SERVER:
+2023-09-07 19:53:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:53:02	CLIENT -> SERVER:
+2023-09-07 19:53:02	CLIENT -> SERVER:
+2023-09-07 19:53:02	CLIENT -> SERVER: --b1=_OX6uwgMM7jn5SDaIKKp4sIVIR3QHRKkvb6fIqIMw--
+2023-09-07 19:53:02	CLIENT -> SERVER:
+2023-09-07 19:53:02	CLIENT -> SERVER: .
+2023-09-07 19:53:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as C7A71417E397
+2023-09-07 19:53:02	CLIENT -> SERVER: QUIT
+2023-09-07 19:53:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:54:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:54:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:54:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:54:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:54:03	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:54:03	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:54:03	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:54:03	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:54:03	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:54:03	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:54:03	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:54:03	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:54:03	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:54:03	CLIENT -> SERVER: DATA
+2023-09-07 19:54:03	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:54:03	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:54:02 +0000
+2023-09-07 19:54:03	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:54:03	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:54:03	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:54:03	CLIENT -> SERVER: Message-ID: <FwzadsC6oPaQsyjHMznjFvdt61H7UyPPwe765EWYR3c@6b7754b45eeb>
+2023-09-07 19:54:03	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:54:03	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:54:03	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:54:03	CLIENT -> SERVER:  boundary="b1=_FwzadsC6oPaQsyjHMznjFvdt61H7UyPPwe765EWYR3c"
+2023-09-07 19:54:03	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:54:03	CLIENT -> SERVER:
+2023-09-07 19:54:03	CLIENT -> SERVER: --b1=_FwzadsC6oPaQsyjHMznjFvdt61H7UyPPwe765EWYR3c
+2023-09-07 19:54:03	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:54:03	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:54:03	CLIENT -> SERVER:
+2023-09-07 19:54:03	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:54:03	CLIENT -> SERVER:
+2023-09-07 19:54:03	CLIENT -> SERVER: --b1=_FwzadsC6oPaQsyjHMznjFvdt61H7UyPPwe765EWYR3c
+2023-09-07 19:54:03	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:54:03	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:54:03	CLIENT -> SERVER:
+2023-09-07 19:54:03	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:54:03	CLIENT -> SERVER:
+2023-09-07 19:54:03	CLIENT -> SERVER:
+2023-09-07 19:54:03	CLIENT -> SERVER: --b1=_FwzadsC6oPaQsyjHMznjFvdt61H7UyPPwe765EWYR3c--
+2023-09-07 19:54:03	CLIENT -> SERVER:
+2023-09-07 19:54:03	CLIENT -> SERVER: .
+2023-09-07 19:54:03	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 247A3417E397
+2023-09-07 19:54:03	CLIENT -> SERVER: QUIT
+2023-09-07 19:54:03	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:55:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:55:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:55:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:55:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:55:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:55:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:55:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:55:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:55:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:55:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:55:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:55:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:55:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:55:02	CLIENT -> SERVER: DATA
+2023-09-07 19:55:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:55:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:55:01 +0000
+2023-09-07 19:55:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:55:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:55:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:55:02	CLIENT -> SERVER: Message-ID: <iDoBwZhvJ8WmVUUxqi8LZA3Y7B5ImseYju7RC1RA3U@6b7754b45eeb>
+2023-09-07 19:55:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:55:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:55:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:55:02	CLIENT -> SERVER:  boundary="b1=_iDoBwZhvJ8WmVUUxqi8LZA3Y7B5ImseYju7RC1RA3U"
+2023-09-07 19:55:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:55:02	CLIENT -> SERVER:
+2023-09-07 19:55:02	CLIENT -> SERVER: --b1=_iDoBwZhvJ8WmVUUxqi8LZA3Y7B5ImseYju7RC1RA3U
+2023-09-07 19:55:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:55:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:55:02	CLIENT -> SERVER:
+2023-09-07 19:55:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:55:02	CLIENT -> SERVER:
+2023-09-07 19:55:02	CLIENT -> SERVER: --b1=_iDoBwZhvJ8WmVUUxqi8LZA3Y7B5ImseYju7RC1RA3U
+2023-09-07 19:55:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:55:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:55:02	CLIENT -> SERVER:
+2023-09-07 19:55:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:55:02	CLIENT -> SERVER:
+2023-09-07 19:55:02	CLIENT -> SERVER:
+2023-09-07 19:55:02	CLIENT -> SERVER: --b1=_iDoBwZhvJ8WmVUUxqi8LZA3Y7B5ImseYju7RC1RA3U--
+2023-09-07 19:55:02	CLIENT -> SERVER:
+2023-09-07 19:55:02	CLIENT -> SERVER: .
+2023-09-07 19:55:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4CB38417E397
+2023-09-07 19:55:02	CLIENT -> SERVER: QUIT
+2023-09-07 19:55:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:56:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:56:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:56:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:56:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:56:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:56:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:56:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:56:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:56:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:56:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:56:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:56:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:56:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:56:02	CLIENT -> SERVER: DATA
+2023-09-07 19:56:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:56:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:56:02 +0000
+2023-09-07 19:56:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:56:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:56:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:56:02	CLIENT -> SERVER: Message-ID: <oTFv8ZhhAAHlWRSTgLazFs9vxr7YBLvVBfEbMpOR4Hc@6b7754b45eeb>
+2023-09-07 19:56:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:56:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:56:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:56:02	CLIENT -> SERVER:  boundary="b1=_oTFv8ZhhAAHlWRSTgLazFs9vxr7YBLvVBfEbMpOR4Hc"
+2023-09-07 19:56:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:56:02	CLIENT -> SERVER:
+2023-09-07 19:56:02	CLIENT -> SERVER: --b1=_oTFv8ZhhAAHlWRSTgLazFs9vxr7YBLvVBfEbMpOR4Hc
+2023-09-07 19:56:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:56:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:56:02	CLIENT -> SERVER:
+2023-09-07 19:56:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:56:02	CLIENT -> SERVER:
+2023-09-07 19:56:02	CLIENT -> SERVER: --b1=_oTFv8ZhhAAHlWRSTgLazFs9vxr7YBLvVBfEbMpOR4Hc
+2023-09-07 19:56:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:56:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:56:02	CLIENT -> SERVER:
+2023-09-07 19:56:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:56:02	CLIENT -> SERVER:
+2023-09-07 19:56:02	CLIENT -> SERVER:
+2023-09-07 19:56:02	CLIENT -> SERVER: --b1=_oTFv8ZhhAAHlWRSTgLazFs9vxr7YBLvVBfEbMpOR4Hc--
+2023-09-07 19:56:02	CLIENT -> SERVER:
+2023-09-07 19:56:02	CLIENT -> SERVER: .
+2023-09-07 19:56:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 8453D417E387
+2023-09-07 19:56:02	CLIENT -> SERVER: QUIT
+2023-09-07 19:56:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:57:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:57:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:57:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:57:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:57:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:57:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:57:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:57:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:57:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:57:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:57:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:57:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:57:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:57:02	CLIENT -> SERVER: DATA
+2023-09-07 19:57:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:57:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:57:02 +0000
+2023-09-07 19:57:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:57:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:57:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:57:02	CLIENT -> SERVER: Message-ID: <DDa0ykGXQNLP4uGJbrPXov8fCb4yLLORsqqIRkYdN4g@6b7754b45eeb>
+2023-09-07 19:57:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:57:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:57:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:57:02	CLIENT -> SERVER:  boundary="b1=_DDa0ykGXQNLP4uGJbrPXov8fCb4yLLORsqqIRkYdN4g"
+2023-09-07 19:57:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:57:02	CLIENT -> SERVER:
+2023-09-07 19:57:02	CLIENT -> SERVER: --b1=_DDa0ykGXQNLP4uGJbrPXov8fCb4yLLORsqqIRkYdN4g
+2023-09-07 19:57:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:57:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:57:02	CLIENT -> SERVER:
+2023-09-07 19:57:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:57:02	CLIENT -> SERVER:
+2023-09-07 19:57:02	CLIENT -> SERVER: --b1=_DDa0ykGXQNLP4uGJbrPXov8fCb4yLLORsqqIRkYdN4g
+2023-09-07 19:57:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:57:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:57:02	CLIENT -> SERVER:
+2023-09-07 19:57:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:57:02	CLIENT -> SERVER:
+2023-09-07 19:57:02	CLIENT -> SERVER:
+2023-09-07 19:57:02	CLIENT -> SERVER: --b1=_DDa0ykGXQNLP4uGJbrPXov8fCb4yLLORsqqIRkYdN4g--
+2023-09-07 19:57:02	CLIENT -> SERVER:
+2023-09-07 19:57:02	CLIENT -> SERVER: .
+2023-09-07 19:57:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as ABCBF417E397
+2023-09-07 19:57:02	CLIENT -> SERVER: QUIT
+2023-09-07 19:57:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:58:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:58:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:58:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:58:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:58:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:58:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:58:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:58:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:58:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:58:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:58:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:58:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:58:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:58:02	CLIENT -> SERVER: DATA
+2023-09-07 19:58:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:58:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:58:02 +0000
+2023-09-07 19:58:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:58:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:58:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:58:02	CLIENT -> SERVER: Message-ID: <VTUxGnWdD44iF3NQ443HbjvRaD6knIn4IUoYqI7lo@6b7754b45eeb>
+2023-09-07 19:58:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:58:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:58:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:58:02	CLIENT -> SERVER:  boundary="b1=_VTUxGnWdD44iF3NQ443HbjvRaD6knIn4IUoYqI7lo"
+2023-09-07 19:58:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:58:02	CLIENT -> SERVER:
+2023-09-07 19:58:02	CLIENT -> SERVER: --b1=_VTUxGnWdD44iF3NQ443HbjvRaD6knIn4IUoYqI7lo
+2023-09-07 19:58:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:58:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:58:02	CLIENT -> SERVER:
+2023-09-07 19:58:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:58:02	CLIENT -> SERVER:
+2023-09-07 19:58:02	CLIENT -> SERVER: --b1=_VTUxGnWdD44iF3NQ443HbjvRaD6knIn4IUoYqI7lo
+2023-09-07 19:58:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:58:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:58:02	CLIENT -> SERVER:
+2023-09-07 19:58:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:58:02	CLIENT -> SERVER:
+2023-09-07 19:58:02	CLIENT -> SERVER:
+2023-09-07 19:58:02	CLIENT -> SERVER: --b1=_VTUxGnWdD44iF3NQ443HbjvRaD6knIn4IUoYqI7lo--
+2023-09-07 19:58:02	CLIENT -> SERVER:
+2023-09-07 19:58:02	CLIENT -> SERVER: .
+2023-09-07 19:58:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as E22FA417E397
+2023-09-07 19:58:02	CLIENT -> SERVER: QUIT
+2023-09-07 19:58:03	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 19:59:01	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 19:59:01	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 19:59:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 19:59:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 19:59:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 19:59:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:59:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 19:59:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 19:59:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 19:59:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 19:59:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 19:59:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 19:59:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 19:59:02	CLIENT -> SERVER: DATA
+2023-09-07 19:59:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 19:59:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 19:59:01 +0000
+2023-09-07 19:59:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 19:59:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 19:59:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 19:59:02	CLIENT -> SERVER: Message-ID: <sxz0ERVNCzP0lXLm4BhIpLOlXwIJ9GSYtJVYLXOwik@6b7754b45eeb>
+2023-09-07 19:59:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 19:59:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 19:59:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 19:59:02	CLIENT -> SERVER:  boundary="b1=_sxz0ERVNCzP0lXLm4BhIpLOlXwIJ9GSYtJVYLXOwik"
+2023-09-07 19:59:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:59:02	CLIENT -> SERVER:
+2023-09-07 19:59:02	CLIENT -> SERVER: --b1=_sxz0ERVNCzP0lXLm4BhIpLOlXwIJ9GSYtJVYLXOwik
+2023-09-07 19:59:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 19:59:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:59:02	CLIENT -> SERVER:
+2023-09-07 19:59:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:59:02	CLIENT -> SERVER:
+2023-09-07 19:59:02	CLIENT -> SERVER: --b1=_sxz0ERVNCzP0lXLm4BhIpLOlXwIJ9GSYtJVYLXOwik
+2023-09-07 19:59:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 19:59:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 19:59:02	CLIENT -> SERVER:
+2023-09-07 19:59:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 19:59:02	CLIENT -> SERVER:
+2023-09-07 19:59:02	CLIENT -> SERVER:
+2023-09-07 19:59:02	CLIENT -> SERVER: --b1=_sxz0ERVNCzP0lXLm4BhIpLOlXwIJ9GSYtJVYLXOwik--
+2023-09-07 19:59:02	CLIENT -> SERVER:
+2023-09-07 19:59:02	CLIENT -> SERVER: .
+2023-09-07 19:59:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 2BCEA417E397
+2023-09-07 19:59:02	CLIENT -> SERVER: QUIT
+2023-09-07 19:59:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 20:00:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 20:00:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 20:00:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 20:00:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 20:00:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 20:00:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:00:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 20:00:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:00:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 20:00:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 20:00:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 20:00:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 20:00:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 20:00:02	CLIENT -> SERVER: DATA
+2023-09-07 20:00:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 20:00:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 20:00:02 +0000
+2023-09-07 20:00:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 20:00:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 20:00:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 20:00:02	CLIENT -> SERVER: Message-ID: <J8CpfgdILf6d87LDLBJ6ed3AFBJodaV2eIedlwkWDU@6b7754b45eeb>
+2023-09-07 20:00:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 20:00:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 20:00:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 20:00:02	CLIENT -> SERVER:  boundary="b1=_J8CpfgdILf6d87LDLBJ6ed3AFBJodaV2eIedlwkWDU"
+2023-09-07 20:00:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:00:02	CLIENT -> SERVER:
+2023-09-07 20:00:02	CLIENT -> SERVER: --b1=_J8CpfgdILf6d87LDLBJ6ed3AFBJodaV2eIedlwkWDU
+2023-09-07 20:00:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 20:00:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:00:02	CLIENT -> SERVER:
+2023-09-07 20:00:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 20:00:02	CLIENT -> SERVER:
+2023-09-07 20:00:02	CLIENT -> SERVER: --b1=_J8CpfgdILf6d87LDLBJ6ed3AFBJodaV2eIedlwkWDU
+2023-09-07 20:00:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 20:00:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:00:02	CLIENT -> SERVER:
+2023-09-07 20:00:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 20:00:02	CLIENT -> SERVER:
+2023-09-07 20:00:02	CLIENT -> SERVER:
+2023-09-07 20:00:02	CLIENT -> SERVER: --b1=_J8CpfgdILf6d87LDLBJ6ed3AFBJodaV2eIedlwkWDU--
+2023-09-07 20:00:02	CLIENT -> SERVER:
+2023-09-07 20:00:02	CLIENT -> SERVER: .
+2023-09-07 20:00:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 74634417E387
+2023-09-07 20:00:02	CLIENT -> SERVER: QUIT
+2023-09-07 20:00:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 20:01:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 20:01:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 20:01:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 20:01:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 20:01:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 20:01:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:01:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 20:01:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:01:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 20:01:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 20:01:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 20:01:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 20:01:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 20:01:02	CLIENT -> SERVER: DATA
+2023-09-07 20:01:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 20:01:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 20:01:02 +0000
+2023-09-07 20:01:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 20:01:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 20:01:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 20:01:02	CLIENT -> SERVER: Message-ID: <4ZgbPTGsU2frM4d5BRpToYyaNimLsfiVvqlBOwUv4VY@6b7754b45eeb>
+2023-09-07 20:01:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 20:01:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 20:01:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 20:01:02	CLIENT -> SERVER:  boundary="b1=_4ZgbPTGsU2frM4d5BRpToYyaNimLsfiVvqlBOwUv4VY"
+2023-09-07 20:01:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:01:02	CLIENT -> SERVER:
+2023-09-07 20:01:02	CLIENT -> SERVER: --b1=_4ZgbPTGsU2frM4d5BRpToYyaNimLsfiVvqlBOwUv4VY
+2023-09-07 20:01:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 20:01:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:01:02	CLIENT -> SERVER:
+2023-09-07 20:01:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 20:01:02	CLIENT -> SERVER:
+2023-09-07 20:01:02	CLIENT -> SERVER: --b1=_4ZgbPTGsU2frM4d5BRpToYyaNimLsfiVvqlBOwUv4VY
+2023-09-07 20:01:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 20:01:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:01:02	CLIENT -> SERVER:
+2023-09-07 20:01:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br
+2023-09-07 20:01:02	CLIENT -> SERVER:
+2023-09-07 20:01:02	CLIENT -> SERVER:
+2023-09-07 20:01:02	CLIENT -> SERVER: --b1=_4ZgbPTGsU2frM4d5BRpToYyaNimLsfiVvqlBOwUv4VY--
+2023-09-07 20:01:02	CLIENT -> SERVER:
+2023-09-07 20:01:02	CLIENT -> SERVER: .
+2023-09-07 20:01:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as CB609417E387
+2023-09-07 20:01:02	CLIENT -> SERVER: QUIT
+2023-09-07 20:01:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 20:02:03	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 20:02:03	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 20:02:03	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 20:02:03	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 20:02:03	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 20:02:03	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:02:03	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 20:02:03	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:02:03	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 20:02:03	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 20:02:03	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 20:02:03	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 20:02:03	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 20:02:03	CLIENT -> SERVER: DATA
+2023-09-07 20:02:03	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 20:02:03	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 20:02:02 +0000
+2023-09-07 20:02:03	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 20:02:03	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 20:02:03	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 20:02:03	CLIENT -> SERVER: Message-ID: <1Zp0uc0HZgDVna5jaZ8zU6M8nZ6q1nWDq1swddZIM@6b7754b45eeb>
+2023-09-07 20:02:03	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 20:02:03	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 20:02:03	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 20:02:03	CLIENT -> SERVER:  boundary="b1=_1Zp0uc0HZgDVna5jaZ8zU6M8nZ6q1nWDq1swddZIM"
+2023-09-07 20:02:03	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:02:03	CLIENT -> SERVER:
+2023-09-07 20:02:03	CLIENT -> SERVER: --b1=_1Zp0uc0HZgDVna5jaZ8zU6M8nZ6q1nWDq1swddZIM
+2023-09-07 20:02:03	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 20:02:03	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:02:03	CLIENT -> SERVER:
+2023-09-07 20:02:03	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:02:03	CLIENT -> SERVER:
+2023-09-07 20:02:03	CLIENT -> SERVER: --b1=_1Zp0uc0HZgDVna5jaZ8zU6M8nZ6q1nWDq1swddZIM
+2023-09-07 20:02:03	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 20:02:03	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:02:03	CLIENT -> SERVER:
+2023-09-07 20:02:03	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:02:03	CLIENT -> SERVER:
+2023-09-07 20:02:03	CLIENT -> SERVER:
+2023-09-07 20:02:03	CLIENT -> SERVER: --b1=_1Zp0uc0HZgDVna5jaZ8zU6M8nZ6q1nWDq1swddZIM--
+2023-09-07 20:02:03	CLIENT -> SERVER:
+2023-09-07 20:02:03	CLIENT -> SERVER: .
+2023-09-07 20:02:03	SERVER -> CLIENT: 250 2.0.0 Ok: queued as C3D9C417E387
+2023-09-07 20:02:03	CLIENT -> SERVER: QUIT
+2023-09-07 20:02:03	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 20:03:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 20:03:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 20:03:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 20:03:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 20:03:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 20:03:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:03:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 20:03:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:03:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 20:03:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 20:03:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 20:03:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 20:03:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 20:03:02	CLIENT -> SERVER: DATA
+2023-09-07 20:03:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 20:03:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 20:03:02 +0000
+2023-09-07 20:03:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 20:03:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 20:03:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 20:03:02	CLIENT -> SERVER: Message-ID: <9YkpKsgtdWCYFHlY6XNPqhLTB8kD882y5FEk4ppjk@6b7754b45eeb>
+2023-09-07 20:03:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 20:03:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 20:03:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 20:03:02	CLIENT -> SERVER:  boundary="b1=_9YkpKsgtdWCYFHlY6XNPqhLTB8kD882y5FEk4ppjk"
+2023-09-07 20:03:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:03:02	CLIENT -> SERVER:
+2023-09-07 20:03:02	CLIENT -> SERVER: --b1=_9YkpKsgtdWCYFHlY6XNPqhLTB8kD882y5FEk4ppjk
+2023-09-07 20:03:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 20:03:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:03:02	CLIENT -> SERVER:
+2023-09-07 20:03:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:03:02	CLIENT -> SERVER:
+2023-09-07 20:03:02	CLIENT -> SERVER: --b1=_9YkpKsgtdWCYFHlY6XNPqhLTB8kD882y5FEk4ppjk
+2023-09-07 20:03:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 20:03:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:03:02	CLIENT -> SERVER:
+2023-09-07 20:03:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:03:02	CLIENT -> SERVER:
+2023-09-07 20:03:02	CLIENT -> SERVER:
+2023-09-07 20:03:02	CLIENT -> SERVER: --b1=_9YkpKsgtdWCYFHlY6XNPqhLTB8kD882y5FEk4ppjk--
+2023-09-07 20:03:02	CLIENT -> SERVER:
+2023-09-07 20:03:02	CLIENT -> SERVER: .
+2023-09-07 20:03:03	SERVER -> CLIENT: 250 2.0.0 Ok: queued as EE993417E397
+2023-09-07 20:03:03	CLIENT -> SERVER: QUIT
+2023-09-07 20:03:03	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 20:04:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 20:04:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 20:04:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 20:04:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 20:04:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 20:04:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:04:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 20:04:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:04:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 20:04:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 20:04:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 20:04:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 20:04:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 20:04:02	CLIENT -> SERVER: DATA
+2023-09-07 20:04:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 20:04:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 20:04:01 +0000
+2023-09-07 20:04:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 20:04:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 20:04:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 20:04:02	CLIENT -> SERVER: Message-ID: <3vpKXQI8bjl5BZ5Z6bgfhzRawYd6PboDwqEvrYrGw@6b7754b45eeb>
+2023-09-07 20:04:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 20:04:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 20:04:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 20:04:02	CLIENT -> SERVER:  boundary="b1=_3vpKXQI8bjl5BZ5Z6bgfhzRawYd6PboDwqEvrYrGw"
+2023-09-07 20:04:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:04:02	CLIENT -> SERVER:
+2023-09-07 20:04:02	CLIENT -> SERVER: --b1=_3vpKXQI8bjl5BZ5Z6bgfhzRawYd6PboDwqEvrYrGw
+2023-09-07 20:04:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 20:04:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:04:02	CLIENT -> SERVER:
+2023-09-07 20:04:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:04:02	CLIENT -> SERVER:
+2023-09-07 20:04:02	CLIENT -> SERVER: --b1=_3vpKXQI8bjl5BZ5Z6bgfhzRawYd6PboDwqEvrYrGw
+2023-09-07 20:04:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 20:04:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:04:02	CLIENT -> SERVER:
+2023-09-07 20:04:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:04:02	CLIENT -> SERVER:
+2023-09-07 20:04:02	CLIENT -> SERVER:
+2023-09-07 20:04:02	CLIENT -> SERVER: --b1=_3vpKXQI8bjl5BZ5Z6bgfhzRawYd6PboDwqEvrYrGw--
+2023-09-07 20:04:02	CLIENT -> SERVER:
+2023-09-07 20:04:02	CLIENT -> SERVER: .
+2023-09-07 20:04:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 4ACFB417E387
+2023-09-07 20:04:02	CLIENT -> SERVER: QUIT
+2023-09-07 20:04:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 20:05:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 20:05:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 20:05:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 20:05:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 20:05:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 20:05:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:05:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 20:05:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:05:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 20:05:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 20:05:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 20:05:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 20:05:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 20:05:02	CLIENT -> SERVER: DATA
+2023-09-07 20:05:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 20:05:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 20:05:02 +0000
+2023-09-07 20:05:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 20:05:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 20:05:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 20:05:02	CLIENT -> SERVER: Message-ID: <1T0WeMKg5z9VKVTI7bKzs9fjJtgnHR8kssgewK9qo@6b7754b45eeb>
+2023-09-07 20:05:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 20:05:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 20:05:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 20:05:02	CLIENT -> SERVER:  boundary="b1=_1T0WeMKg5z9VKVTI7bKzs9fjJtgnHR8kssgewK9qo"
+2023-09-07 20:05:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:05:02	CLIENT -> SERVER:
+2023-09-07 20:05:02	CLIENT -> SERVER: --b1=_1T0WeMKg5z9VKVTI7bKzs9fjJtgnHR8kssgewK9qo
+2023-09-07 20:05:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 20:05:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:05:02	CLIENT -> SERVER:
+2023-09-07 20:05:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:05:02	CLIENT -> SERVER:
+2023-09-07 20:05:02	CLIENT -> SERVER: --b1=_1T0WeMKg5z9VKVTI7bKzs9fjJtgnHR8kssgewK9qo
+2023-09-07 20:05:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 20:05:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:05:02	CLIENT -> SERVER:
+2023-09-07 20:05:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:05:02	CLIENT -> SERVER:
+2023-09-07 20:05:02	CLIENT -> SERVER:
+2023-09-07 20:05:02	CLIENT -> SERVER: --b1=_1T0WeMKg5z9VKVTI7bKzs9fjJtgnHR8kssgewK9qo--
+2023-09-07 20:05:02	CLIENT -> SERVER:
+2023-09-07 20:05:02	CLIENT -> SERVER: .
+2023-09-07 20:05:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 95EDF417E397
+2023-09-07 20:05:02	CLIENT -> SERVER: QUIT
+2023-09-07 20:05:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 20:06:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 20:06:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 20:06:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 20:06:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 20:06:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 20:06:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:06:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 20:06:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:06:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 20:06:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 20:06:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 20:06:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 20:06:03	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 20:06:03	CLIENT -> SERVER: DATA
+2023-09-07 20:06:03	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 20:06:03	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 20:06:02 +0000
+2023-09-07 20:06:03	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 20:06:03	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 20:06:03	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 20:06:03	CLIENT -> SERVER: Message-ID: <h09iCNLoltPds5aWNNiHLLZEONjyYLtCqaGu3pxVfI@6b7754b45eeb>
+2023-09-07 20:06:03	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 20:06:03	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 20:06:03	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 20:06:03	CLIENT -> SERVER:  boundary="b1=_h09iCNLoltPds5aWNNiHLLZEONjyYLtCqaGu3pxVfI"
+2023-09-07 20:06:03	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:06:03	CLIENT -> SERVER:
+2023-09-07 20:06:03	CLIENT -> SERVER: --b1=_h09iCNLoltPds5aWNNiHLLZEONjyYLtCqaGu3pxVfI
+2023-09-07 20:06:03	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 20:06:03	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:06:03	CLIENT -> SERVER:
+2023-09-07 20:06:03	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:06:03	CLIENT -> SERVER:
+2023-09-07 20:06:03	CLIENT -> SERVER: --b1=_h09iCNLoltPds5aWNNiHLLZEONjyYLtCqaGu3pxVfI
+2023-09-07 20:06:03	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 20:06:03	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:06:03	CLIENT -> SERVER:
+2023-09-07 20:06:03	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:06:03	CLIENT -> SERVER:
+2023-09-07 20:06:03	CLIENT -> SERVER:
+2023-09-07 20:06:03	CLIENT -> SERVER: --b1=_h09iCNLoltPds5aWNNiHLLZEONjyYLtCqaGu3pxVfI--
+2023-09-07 20:06:03	CLIENT -> SERVER:
+2023-09-07 20:06:03	CLIENT -> SERVER: .
+2023-09-07 20:06:03	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 08CF5417E397
+2023-09-07 20:06:03	CLIENT -> SERVER: QUIT
+2023-09-07 20:06:03	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 20:07:01	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 20:07:01	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 20:07:01	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 20:07:01	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 20:07:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 20:07:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:07:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 20:07:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:07:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 20:07:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 20:07:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 20:07:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 20:07:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 20:07:02	CLIENT -> SERVER: DATA
+2023-09-07 20:07:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 20:07:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 20:07:01 +0000
+2023-09-07 20:07:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 20:07:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 20:07:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 20:07:02	CLIENT -> SERVER: Message-ID: <c2Yojf6yQRDYjV4A3RI8VXvMlKd6zhFz7mnDNbtPc@6b7754b45eeb>
+2023-09-07 20:07:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 20:07:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 20:07:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 20:07:02	CLIENT -> SERVER:  boundary="b1=_c2Yojf6yQRDYjV4A3RI8VXvMlKd6zhFz7mnDNbtPc"
+2023-09-07 20:07:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:07:02	CLIENT -> SERVER:
+2023-09-07 20:07:02	CLIENT -> SERVER: --b1=_c2Yojf6yQRDYjV4A3RI8VXvMlKd6zhFz7mnDNbtPc
+2023-09-07 20:07:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 20:07:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:07:02	CLIENT -> SERVER:
+2023-09-07 20:07:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:07:02	CLIENT -> SERVER:
+2023-09-07 20:07:02	CLIENT -> SERVER: --b1=_c2Yojf6yQRDYjV4A3RI8VXvMlKd6zhFz7mnDNbtPc
+2023-09-07 20:07:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 20:07:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:07:02	CLIENT -> SERVER:
+2023-09-07 20:07:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:07:02	CLIENT -> SERVER:
+2023-09-07 20:07:02	CLIENT -> SERVER:
+2023-09-07 20:07:02	CLIENT -> SERVER: --b1=_c2Yojf6yQRDYjV4A3RI8VXvMlKd6zhFz7mnDNbtPc--
+2023-09-07 20:07:02	CLIENT -> SERVER:
+2023-09-07 20:07:02	CLIENT -> SERVER: .
+2023-09-07 20:07:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 25768417E397
+2023-09-07 20:07:02	CLIENT -> SERVER: QUIT
+2023-09-07 20:07:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 20:08:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 20:08:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 20:08:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 20:08:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 20:08:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 20:08:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:08:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 20:08:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:08:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 20:08:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 20:08:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 20:08:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 20:08:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 20:08:02	CLIENT -> SERVER: DATA
+2023-09-07 20:08:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 20:08:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 20:08:02 +0000
+2023-09-07 20:08:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 20:08:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 20:08:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 20:08:02	CLIENT -> SERVER: Message-ID: <xelUGE6Fehgk1dusl7qK65Jbt9dEl1P2jLieqYi3Gc@6b7754b45eeb>
+2023-09-07 20:08:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 20:08:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 20:08:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 20:08:02	CLIENT -> SERVER:  boundary="b1=_xelUGE6Fehgk1dusl7qK65Jbt9dEl1P2jLieqYi3Gc"
+2023-09-07 20:08:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:08:02	CLIENT -> SERVER:
+2023-09-07 20:08:02	CLIENT -> SERVER: --b1=_xelUGE6Fehgk1dusl7qK65Jbt9dEl1P2jLieqYi3Gc
+2023-09-07 20:08:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 20:08:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:08:02	CLIENT -> SERVER:
+2023-09-07 20:08:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:08:02	CLIENT -> SERVER:
+2023-09-07 20:08:02	CLIENT -> SERVER: --b1=_xelUGE6Fehgk1dusl7qK65Jbt9dEl1P2jLieqYi3Gc
+2023-09-07 20:08:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 20:08:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:08:02	CLIENT -> SERVER:
+2023-09-07 20:08:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:08:02	CLIENT -> SERVER:
+2023-09-07 20:08:02	CLIENT -> SERVER:
+2023-09-07 20:08:02	CLIENT -> SERVER: --b1=_xelUGE6Fehgk1dusl7qK65Jbt9dEl1P2jLieqYi3Gc--
+2023-09-07 20:08:02	CLIENT -> SERVER:
+2023-09-07 20:08:02	CLIENT -> SERVER: .
+2023-09-07 20:08:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 5EE08417E397
+2023-09-07 20:08:02	CLIENT -> SERVER: QUIT
+2023-09-07 20:08:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 20:09:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 20:09:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 20:09:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 20:09:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 20:09:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 20:09:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:09:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 20:09:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:09:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 20:09:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 20:09:02	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 20:09:02	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 20:09:02	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 20:09:02	CLIENT -> SERVER: DATA
+2023-09-07 20:09:02	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 20:09:02	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 20:09:02 +0000
+2023-09-07 20:09:02	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 20:09:02	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 20:09:02	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 20:09:02	CLIENT -> SERVER: Message-ID: <cA6kXE8D3iL382kafC8xud4udKvNEAdpGHAYNQU@6b7754b45eeb>
+2023-09-07 20:09:02	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 20:09:02	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 20:09:02	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 20:09:02	CLIENT -> SERVER:  boundary="b1=_cA6kXE8D3iL382kafC8xud4udKvNEAdpGHAYNQU"
+2023-09-07 20:09:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:09:02	CLIENT -> SERVER:
+2023-09-07 20:09:02	CLIENT -> SERVER: --b1=_cA6kXE8D3iL382kafC8xud4udKvNEAdpGHAYNQU
+2023-09-07 20:09:02	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 20:09:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:09:02	CLIENT -> SERVER:
+2023-09-07 20:09:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:09:02	CLIENT -> SERVER:
+2023-09-07 20:09:02	CLIENT -> SERVER: --b1=_cA6kXE8D3iL382kafC8xud4udKvNEAdpGHAYNQU
+2023-09-07 20:09:02	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 20:09:02	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:09:02	CLIENT -> SERVER:
+2023-09-07 20:09:02	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:09:02	CLIENT -> SERVER:
+2023-09-07 20:09:02	CLIENT -> SERVER:
+2023-09-07 20:09:02	CLIENT -> SERVER: --b1=_cA6kXE8D3iL382kafC8xud4udKvNEAdpGHAYNQU--
+2023-09-07 20:09:02	CLIENT -> SERVER:
+2023-09-07 20:09:02	CLIENT -> SERVER: .
+2023-09-07 20:09:02	SERVER -> CLIENT: 250 2.0.0 Ok: queued as B13A8417E397
+2023-09-07 20:09:02	CLIENT -> SERVER: QUIT
+2023-09-07 20:09:02	SERVER -> CLIENT: 221 2.0.0 Bye
+2023-09-07 20:10:02	SERVER -> CLIENT: 220 v200245.minohost.com.br ESMTP Postfix
+2023-09-07 20:10:02	CLIENT -> SERVER: EHLO 6b7754b45eeb
+2023-09-07 20:10:02	SERVER -> CLIENT: 250-v200245.minohost.com.br
+                   	                  250-PIPELINING
+                   	                  250-SIZE 204800000
+                   	                  250-ETRN
+                   	                  250-AUTH PLAIN LOGIN
+                   	                  250-AUTH=PLAIN LOGIN
+                   	                  250-ENHANCEDSTATUSCODES
+                   	                  250-8BITMIME
+                   	                  250-DSN
+                   	                  250 CHUNKING
+2023-09-07 20:10:02	CLIENT -> SERVER: AUTH LOGIN
+2023-09-07 20:10:02	SERVER -> CLIENT: 334 VXNlcm5hbWU6
+2023-09-07 20:10:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:10:02	SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+2023-09-07 20:10:02	CLIENT -> SERVER: [credentials hidden]
+2023-09-07 20:10:02	SERVER -> CLIENT: 235 2.7.0 Authentication successful
+2023-09-07 20:10:02	CLIENT -> SERVER: MAIL FROM:<contato@devspark.com.br>
+2023-09-07 20:10:03	SERVER -> CLIENT: 250 2.1.0 Ok
+2023-09-07 20:10:03	CLIENT -> SERVER: RCPT TO:<jeancarloscharao@gmail.com>
+2023-09-07 20:10:03	SERVER -> CLIENT: 250 2.1.5 Ok
+2023-09-07 20:10:03	CLIENT -> SERVER: DATA
+2023-09-07 20:10:03	SERVER -> CLIENT: 354 End data with <CR><LF>.<CR><LF>
+2023-09-07 20:10:03	CLIENT -> SERVER: Date: Thu, 7 Sep 2023 20:10:02 +0000
+2023-09-07 20:10:03	CLIENT -> SERVER: To: =?iso-8859-1?Q?Jean_Carlos_Char=C3=A3o_Sabino?= <jeancarloscharao@gmail.com>
+2023-09-07 20:10:03	CLIENT -> SERVER: From: Monitor de Sites <contato@devspark.com.br>
+2023-09-07 20:10:03	CLIENT -> SERVER: Subject: Sites Fora do Ar
+2023-09-07 20:10:03	CLIENT -> SERVER: Message-ID: <5ANHmZ7LBKc9XZG0l1qWLOBUZnHtjxLmgcItRoDuCXk@6b7754b45eeb>
+2023-09-07 20:10:03	CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.1 (https://github.com/PHPMailer/PHPMailer)
+2023-09-07 20:10:03	CLIENT -> SERVER: MIME-Version: 1.0
+2023-09-07 20:10:03	CLIENT -> SERVER: Content-Type: multipart/alternative;
+2023-09-07 20:10:03	CLIENT -> SERVER:  boundary="b1=_5ANHmZ7LBKc9XZG0l1qWLOBUZnHtjxLmgcItRoDuCXk"
+2023-09-07 20:10:03	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:10:03	CLIENT -> SERVER:
+2023-09-07 20:10:03	CLIENT -> SERVER: --b1=_5ANHmZ7LBKc9XZG0l1qWLOBUZnHtjxLmgcItRoDuCXk
+2023-09-07 20:10:03	CLIENT -> SERVER: Content-Type: text/plain; charset=iso-8859-1
+2023-09-07 20:10:03	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:10:03	CLIENT -> SERVER:
+2023-09-07 20:10:03	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:10:03	CLIENT -> SERVER:
+2023-09-07 20:10:03	CLIENT -> SERVER: --b1=_5ANHmZ7LBKc9XZG0l1qWLOBUZnHtjxLmgcItRoDuCXk
+2023-09-07 20:10:03	CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+2023-09-07 20:10:03	CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+2023-09-07 20:10:03	CLIENT -> SERVER:
+2023-09-07 20:10:03	CLIENT -> SERVER: Os seguintes sites estão fora do ar: https://www.googledobr.com.br, https://www.jeancarloscharao.com.br
+2023-09-07 20:10:03	CLIENT -> SERVER:
+2023-09-07 20:10:03	CLIENT -> SERVER:
+2023-09-07 20:10:03	CLIENT -> SERVER: --b1=_5ANHmZ7LBKc9XZG0l1qWLOBUZnHtjxLmgcItRoDuCXk--
+2023-09-07 20:10:03	CLIENT -> SERVER:
+2023-09-07 20:10:03	CLIENT -> SERVER: .
+2023-09-07 20:10:03	SERVER -> CLIENT: 250 2.0.0 Ok: queued as 12BFB417E397
+2023-09-07 20:10:03	CLIENT -> SERVER: QUIT
+2023-09-07 20:10:03	SERVER -> CLIENT: 221 2.0.0 Bye
